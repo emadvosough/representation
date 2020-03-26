@@ -1,0 +1,132 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #edffea;
+}
+
+h1{
+  font-style: oblique;
+  color: #18b0b0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 30px auto -20px auto;
+  line-height: 1.7;
+}
+h4{
+  line-height: 2;
+}
+
+h2{
+color: #1eb2a6;
+}
+
+hr{
+border-style: none;
+border-top: dotted;
+color: #75daad;
+width: 5%;
+border-width: 5px;
+}
+
+a{
+padding: 10px;
+color: #98d6ea;
+font-family: Montserrat;
+text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.firstSpan{
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+  color: #05dfd7;
+  font-family: 'Merriweather', serif;
+}
+.firstpar{
+  color: #5b8c5a;
+  font-size: 25px;
+}
+.TopContainre{
+  background-color: #cbf1f5;
+  padding-top: 70px;
+  text-align: center;
+}
+.cloudTop{
+  position: relative;
+  display: block;
+  margin-left: 75%;
+}
+.cloudBottom{
+  position: relative;
+  display: block;
+  margin-left: 22%;
+}
+.avatar_image{
+  margin-top: 20px;
+}
+.monutain{
+  margin-bottom: -17px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+}
+.learn-image{
+  float: left;
+  margin-right: 30px;
+}
+.team-image{
+  float: right;
+  margin-left: 30px;
+}
+.web-image{
+  float: left;
+  margin-right: 30px;
+  margin-top: -20px;
+}
+.hello-top{
+  width: 40%;
+  margin: 0 auto 60px auto;
+}
+.myButton {
+	box-shadow:inset 0 1px 0 0 #bee2f9;
+	background:linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+	background-color:#63b8ee;
+	border-radius:8px;
+	border:1px solid #3866a3;
+	display:inline-block;
+	cursor:pointer;
+	color:#14396a;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 19px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #7cacde;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color:#468ccf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer{
+  background-color: #a3f7bf;
+  margin-bottom: -16px;
+  padding: 30px;
+}
+
+.copyRight{
+  font-size: 0.7rem;
+}
